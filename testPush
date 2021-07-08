@@ -1,0 +1,5 @@
+public with sharing class testPush {
+    public static void(){
+      system.debug("test");
+    }
+}
